@@ -6,7 +6,11 @@
 
 ### Motion, forces and gravity
 
-$s = ut + \frac{1}{2} a t^2$
+Equation | LaTeX
+--- | ---
+$s = ut + \frac{1}{2} a t^2$ | s = ut + \frac{1}{2} a t^2
+
+\$s = ut + \frac{1}{2} a t^2\$
 
 $v = u + at$
 
