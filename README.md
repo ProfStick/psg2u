@@ -6,4 +6,4 @@ This is idisyncratic and highly variable collection of science and coding resour
 
 ### OK but now what?
 
-Wondering what to do now that you are here? Why not look at the Physic's $\LaTeX$ [Cookbook](./Physics/physics_latex_cookbook.md)
+Wondering what to do now that you are here? Why not look at the Physic's LaTeX [Cookbook](./Physics/physics_latex_cookbook.html)
