@@ -8,3 +8,4 @@ This is idisyncratic and highly variable collection of science and coding resour
 
 Wondering what to do now that you are here? Probably the best way to explore the resources is to head over to [the wiki](https://github.com/ProfStick/psg2u/wiki).
  
+ or look ath the [cookbook](./Physics/physics_latex_cookbook.md]
