@@ -1,6 +1,4 @@
-![Prof Stick's Guide to the Universe](https://github.com/ProfStick/psg2u/blob/master/media/G2U_logo.png)
-
-<img src="./media/G2U_logo.png" width="100">
+<img src="./media/G2U_logo.png">
 
 ## Welcome
 
