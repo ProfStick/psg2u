@@ -1,5 +1,7 @@
 ![Prof Stick's Guide to the Universe](https://github.com/ProfStick/psg2u/blob/master/media/G2U_logo.png)
 
+<img src="../media/prof_stick_logo.png" width="80">
+
 ## Welcome
 
 This is idisyncratic and highly variable collection of science and coding resources, with an emphasis on physics. I will try and maintain some sort of index in [the wiki](https://github.com/ProfStick/psg2u/wiki) but I cant make any promises. Just consider this site a testament to entropy.
