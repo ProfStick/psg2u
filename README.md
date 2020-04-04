@@ -1,4 +1,4 @@
-# ![Prof Stick's Guide to the Universe](./media/G2Ulogo_v1_1.png)
+# ![Prof Stick's Guide to the Universe](../media/G2Ulogo_v1_1.png)
 
 ## Welcome
 
