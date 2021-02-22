@@ -10,7 +10,7 @@ If you look at any high school or undergraduate physics textbook and you will fi
 
 ## How works Science?
 
-Before we develop the spacetime framework I want to bore you with a few words about how science works. Perhaps the best summation of science at work is given by Richard Feynman in a lecture to class at Cornell University in 1964.
+Before we develop the spacetime framework I want to indulge in a few words about how science works. Perhaps the best summation of science at work is given by Richard Feynman in a lecture to class at Cornell University in 1964.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajhFNcUTJI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
