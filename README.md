@@ -8,7 +8,7 @@ This is idisyncratic and highly variable collection of science and coding resour
 
 #### A Special Look at Relativity
 
-- [00 Prequel](./Physics/Special Special Relativity/special_relativity_00.html)
+- [00 Prequel](./Physics/Special_Special_Relativity/special_relativity_00.html)
 
 ### OK but now what?
 
