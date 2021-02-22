@@ -1,4 +1,4 @@
-# Special special Relativity 00 - Prequel
+# Special Look at Relativity 00 - Prequel
 
 ## The journey ahead
 
