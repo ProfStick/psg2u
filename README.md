@@ -2,7 +2,13 @@
 
 ## Welcome
 
-This is idisyncratic and highly variable collection of science and coding resources, with an emphasis on physics. I will try and maintain some sort of index in [the wiki](https://github.com/ProfStick/psg2u/wiki) but I cant make any promises. Just consider this site a testament to entropy.
+This is idisyncratic and highly variable collection of science and coding resources, with an emphasis on physics. I will try and maintain some sort of index here but I cant make any promises. Just consider this site a testament to entropy.
+
+### Physics Stuff
+
+#### A Special Look at Relativity
+
+- [00 Prequel](.Physics/Special Special Relativity/special_relativity_00.html)
 
 ### OK but now what?
 
